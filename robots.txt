@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://smeraldajewerly.github.io/SMERALDAJEWELRY/sitemap.xml
+Sitemap: https://smeraldajewerly.github.io/SMERALDAJEWELDRY/sitemap.txt
 
