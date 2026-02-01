@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://smeraldajewerly.github.io/</loc>
+    <loc>https://smeraldajewerly.github.io/SMERALDAJEWELRY/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://smeraldajewerly.github.io/pagina2</loc>
+    <loc>https://smeraldajewerly.github.io/SMERALDAJEWELRY/pagina2</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://smeraldajewerly.github.io/pagina3</loc>
+    <loc>https://smeraldajewerly.github.io/SMERALDAJEWELRY/pagina3</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
+
 
